@@ -21,7 +21,7 @@ The code for extracting these features are given in the `Feature Extraction.ipyn
 * Chroma Features (12)
 
 The dataset obtained after performing feature extraction is provided as `Extracted_Features.csv`.
-`Machine_Learning.ipynb` contains the code for dimensionality reduction using Principal Component Analysis (PCA) and model preperaion. The final model was trained on the reduced dataset containing 20 principal components. The Machine Leraning models used along with their accuracy are :
+`Machine_Learning.ipynb` contains the code for dimensionality reduction using Principal Component Analysis (PCA) and model preperaion. The final model was trained on the reduced dataset containing 20 principal components. The Machine Learning models used along with their accuracy are :
 
 * Support Vector Machines (80%)
 * Random Forest Classifier (81%)
